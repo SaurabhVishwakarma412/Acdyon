@@ -39,3 +39,6 @@ Import the repository into Vercel. Its standard Vite preset uses `npm run build`
 ## Design Decisions
 
 See [DECISIONS.md](./DECISIONS.md).
+
+---
+# Thanks for visiting
